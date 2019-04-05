@@ -1,0 +1,9 @@
+# IntelliJ
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+# Setuptools distribution folder.
+/dist/
